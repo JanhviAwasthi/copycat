@@ -1,0 +1,2 @@
+# copycat
+clone a website
